@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -n '' passwd | head -n 5 | tail -n 1
